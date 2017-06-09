@@ -1,0 +1,5 @@
+D:\33InfA\Pieniazek\Lista3\XML\Zad2\Zad2\bin\Debug\Zad2.exe.config
+D:\33InfA\Pieniazek\Lista3\XML\Zad2\Zad2\bin\Debug\Zad2.exe
+D:\33InfA\Pieniazek\Lista3\XML\Zad2\Zad2\bin\Debug\Zad2.pdb
+D:\33InfA\Pieniazek\Lista3\XML\Zad2\Zad2\obj\Debug\Zad2.exe
+D:\33InfA\Pieniazek\Lista3\XML\Zad2\Zad2\obj\Debug\Zad2.pdb
